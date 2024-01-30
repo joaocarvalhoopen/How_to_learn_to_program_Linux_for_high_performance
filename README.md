@@ -110,6 +110,12 @@ I will not suggest any book on C++, because I don't like any of the current book
 7. System Programming Vol II <br>
    by Jin-Jwei Chen
 
+8. Systems Performance, 2nd Edition <br>
+   by Brendan Gregg
+
+9. Understanding Software Dynamics <br>
+   by Richard L. Sites
+
 
 ## ABI do Linux
 
