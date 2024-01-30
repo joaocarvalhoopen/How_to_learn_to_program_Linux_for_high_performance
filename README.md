@@ -53,6 +53,64 @@ I will not suggest any book on C++, because I don't like any of the current book
    [https://www.youtube.com/playlist?list=PLEQTpgQ9eFCEg0CTd0KkiqgUpP5V0JM4-](https://www.youtube.com/playlist?list=PLEQTpgQ9eFCEg0CTd0KkiqgUpP5V0JM4-)
 
 
+## Linux tools for development
+
+1. Harley Hahns Guide to Unix and Linux <br>
+   by Harley Hahn
+
+2. GNU Emacs editor Manuals Online <br>
+   [https://www.gnu.org/software/emacs/manual/](https://www.gnu.org/software/emacs/manual/)
+
+3. NeoVim editor <br>
+   [https://neovim.io/](https://neovim.io/)
+
+4. Video Vim Tutorial <br>
+   [https://www.youtube.com/watch?v=IiwGbcd8S7I](https://www.youtube.com/watch?v=IiwGbcd8S7I)
+
+5. Visual Studio Code editor <br>
+   [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+6. Helix editor <br>
+   [https://helix-editor.com/](https://helix-editor.com/) 
+
+7. GCC, the GNU Compiler Collection <br>
+   [https://www.gnu.org/software/gcc/](https://www.gnu.org/software/gcc/)
+
+8. Clang: a C language family frontend for LLVM <br>
+   [https://clang.llvm.org/](https://clang.llvm.org/)
+
+9. Tool - GNU Make Manual <br>
+   [https://www.gnu.org/software/make/manual/](https://www.gnu.org/software/make/manual/)
+
+10. Tool - GDB: The GNU Project Debugger <br>
+    [https://www.gnu.org/software/gdb/documentation/](https://www.gnu.org/software/gdb/documentation/)
+
+11. Tool - The LLDB Debugger <br>
+    [https://lldb.llvm.org/](https://lldb.llvm.org/)
+
+12. The RAD Debugger Project <br>
+    It will have soon a version for Linux. <br>
+    [https://github.com/EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
+
+13. Tool - Valgrind User Manual <br>
+    [https://valgrind.org/docs/](https://valgrind.org/docs/)
+
+14. Tool - The perf Linux profiler - Examples of use <br>
+    [https://www.brendangregg.com/perf.html](https://www.brendangregg.com/perf.html)
+
+15. Tool - American Fuzzy Lop - A good fuzzer <br>
+    [https://lcamtuf.coredump.cx/afl/](https://lcamtuf.coredump.cx/afl/)
+
+16. Tool - GNU grep - GNU Grep: Print lines matching a pattern <br>
+    [https://www.gnu.org/software/grep/manual/](https://www.gnu.org/software/grep/manual/)
+
+17. Tool - GNU diffutils - Comparing and Merging Files <br>
+    [https://www.gnu.org/software/diffutils/manual/](https://www.gnu.org/software/diffutils/manual/)
+
+18. Tool - objdump - Object dump <br>
+    [https://sourceware.org/binutils/docs-2.42/binutils/objdump.html](https://sourceware.org/binutils/docs-2.42/binutils/objdump.html) 
+
+
 ## How does a computer works and how does a program runs on a operating system in C, C++, Rust or Odin programs
 
 1. Dive Into Systems: A Gentle Introduction to Computer Systems <br>
