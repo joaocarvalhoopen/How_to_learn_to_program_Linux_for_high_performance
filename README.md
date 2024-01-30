@@ -88,7 +88,7 @@ I will not suggest any book on C++, because I don't like any of the current book
 11. Tool - The LLDB Debugger <br>
     [https://lldb.llvm.org/](https://lldb.llvm.org/)
 
-12. The RAD Debugger Project <br>
+12. Tool - The RAD Debugger Project <br>
     It will have soon a version for Linux. <br>
     [https://github.com/EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
 
