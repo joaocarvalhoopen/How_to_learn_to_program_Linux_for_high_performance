@@ -183,6 +183,10 @@ I will not suggest any book on C++, because I don't like any of the current book
 12. The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference <br>
     by Charles M. Kozierok
 
+13. Book on how to maximize the numerical precision of your scientific calculations. <br> 
+    Real Computing Made Real: Preventing Errors in Scientific and Engineering Calculations <br>
+    by Forman S. Acton
+
 
 ## ABI do Linux
 
@@ -240,7 +244,12 @@ The following ia a course that I highly recommend to all, it's really well made 
 4. Intel <br>
    Google Search - intel optimization manual <br>
    intel 64 and ia 32 architectures optimization reference manual volume 1 <br>
-   [https://www.intel.com/content/www/us/en/content-details/671488/intel-64-and-ia-32-architectures-optimization-reference-manual-volume-1.html](https://www.intel.com/content/www/us/en/content-details/671488/intel-64-and-ia-32-architectures-optimization-reference-manual-volume-1.html)
+   [https://www.intel.com/content/www/us/en/content-details/671488/intel-64-and-ia-32-architectures-optimization-reference-manual-volume-1.html](https://www.intel.com/content/www/us/en/content-details/671488/intel-64-and-ia-32-architectures-optimization-reference-manual-volume-1.html) <br>
+   <br>
+   “Volume 3A: System Programming Guide” Part 1 <br>
+   and “Volume 3B: System Programming Guide Part 2” <br> 
+   [https://www.intel.com/products/processor/manuals](https://www.intel.com/products/processor/manuals)
+   
 
 5. AMD <br>
    Google - AMD Documentation Hub <br>
