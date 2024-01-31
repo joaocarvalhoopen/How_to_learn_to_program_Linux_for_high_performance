@@ -174,6 +174,15 @@ I will not suggest any book on C++, because I don't like any of the current book
 9. Understanding Software Dynamics <br>
    by Richard L. Sites
 
+10. TCP/IP Illustrated: The Protocols, Volume 1, 2nd Edition <br>
+    by Kevin Fall, W. Stevens
+
+11. TCP/IP Illustrated: The Implementation, Volume 2, 1th Edition <br>
+    by W. Richard Stevens, Gary R. Wright
+
+12. The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference <br>
+    by Charles M. Kozierok
+
 
 ## ABI do Linux
 
