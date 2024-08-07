@@ -8,7 +8,7 @@ I would like to share some good resources on high performance programming in CPU
 To program for high performance we need to have some knowledge of a low level language, like C, C++, Rust or Odin and as a second candidate a language like Julia for mathematical processing. 
 
 
-## Programação em C
+## Programming in C
 
 1. Video - Eskill Steenber - How I program C <br>
    [https://www.youtube.com/watch?v=443UNeGrFoM](https://www.youtube.com/watch?v=443UNeGrFoM)
@@ -216,14 +216,15 @@ I will not suggest any book on C++, because I don't like any of the current book
     by Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj 
 
 
-# High performance programming
+## High performance programming
 
 The following ia a course that I highly recommend to all, it's really well made and Casey Muratori is a excellent teacher.
 
 1. Casey Muratori - Computer Enhancement - Performance Aware Course <br>
    [https://www.computerenhance.com](https://www.computerenhance.com)
 
-# Links on performance
+
+## Links on performance
 
 1. Site Chips and Cheese <br>
    Many current and in-depth and information on the internal workings of current CPU's and GPU's, x86_64, ARM, RISC-V and others. <br>
@@ -255,6 +256,52 @@ The following ia a course that I highly recommend to all, it's really well made 
    Google - AMD Documentation Hub <br>
    Inside the AMD site, search for "software optimization guide" <br>   
    Then download "Software optimization Guide for the Zen4 Microarchitecture" or other model, it's inside a zip.
+
+
+## How to minimize the numerical errors - floating point errors
+Casey Muratori mentioned the following resources in Hand Made Hero youtube videos. <br>
+
+1. What Every Computer Scientist Should Know About Floating-Point Arithmetic <br>
+   by David Goldberg <br>
+   [https://pages.cs.wisc.edu/~david/courses/cs552/S12/handouts/goldberg-floating-point.pdf](https://pages.cs.wisc.edu/~david/courses/cs552/S12/handouts/goldberg-floating-point.pdf)
+
+2. Book - Numerical Methods that Work <br>
+   by Forman S. Acton, 1997
+
+3. Real Computing Made Real: Preventing Errors in Scientific and Engineering Calculations <br>
+   by Forman S. Acton, 2012
+
+
+## How to program CPUs with SIMD - Single Instruction Multiple Data ex. AVX2 and AVX512
+Once again The Casey Muratori Hand Made Hero youtube videos to save the day. <br>
+<br>
+See the videos from Handmade Hero, from Casey Muratori on youtube, each almost 2 hours: <br>
+
+1. Video - Handmade Hero Day 115 - SIMD Basics <br>
+   [https://www.youtube.com/watch?v=YnnTb0AQgYM](https://www.youtube.com/watch?v=YnnTb0AQgYM)
+
+2. Video - Handmade Hero Day 116 - Converting Math Operations to SIMD <br>
+   [https://www.youtube.com/watch?v=1CVmlnhgT3g](https://www.youtube.com/watch?v=1CVmlnhgT3g)
+
+3. Video - Handmade Hero Day 117 - Packing Pixels for the Framebuffer <br>
+   [https://www.youtube.com/watch?v=90eSF6jLzvQ](https://www.youtube.com/watch?v=90eSF6jLzvQ)
+
+4. Video - Handmade Hero Day 118 - Wide Unpacking and Masking <br>
+   [https://www.youtube.com/watch?v=-_X0UYCGaVA](https://www.youtube.com/watch?v=-_X0UYCGaVA)
+
+5. Video - Handmade Hero Day 119 - Counting Intrinsics <br>
+   [https://www.youtube.com/watch?v=NPDL1OENYio](https://www.youtube.com/watch?v=NPDL1OENYio)
+
+6. Video - Handmade Hero Day 120 - Measuring Port Usage with IACA <br>
+   [https://www.youtube.com/watch?v=-c-0s6KiPSw](https://www.youtube.com/watch?v=-c-0s6KiPSw)
+
+7. Video - Handmade Hero Day 121 - Rendering in Tiles (Marathon) <br>
+   [https://www.youtube.com/watch?v=kZlPYka1T0g](https://www.youtube.com/watch?v=kZlPYka1T0g)
+
+There is also one other important resource that is mentioned in those videos and that is: <br>
+
+8. Intel Intrinsics Guide ( Not from Intel) <br>
+   [https://alouettesu.github.io/Intrinsics](https://alouettesu.github.io/Intrinsics)
 
 
 ## Have fun
